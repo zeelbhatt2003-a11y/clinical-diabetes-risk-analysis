@@ -56,7 +56,16 @@ Key observations included:
 - A visible spike at zero was observed for blood pressure, indicating implausible values previously identified during data quality assessment.
 - Several variables contained mild outliers, which are expected in clinical datasets.
 
----
+-
+## Figures
+
+### Blood Pressure Distribution
+
+![Blood Pressure Histogram](../figures/blood_pressure_histogram.png)
+
+### Blood Pressure Boxplot
+
+![Blood Pressure Boxplot](../figures/blood_pressure_boxplot.png)
 
 ## Interpretation
 
