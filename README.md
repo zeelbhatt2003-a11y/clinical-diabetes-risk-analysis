@@ -16,7 +16,7 @@
 
 ---
 
-# Project Overview
+## Project Overview
 
 Type 2 Diabetes is one of the most prevalent chronic diseases worldwide and remains a major public health challenge. Understanding the demographic and clinical characteristics associated with diabetes can support earlier diagnosis, risk assessment, and improved patient management.
 
@@ -26,13 +26,13 @@ Beyond the statistical analyses, this repository emphasizes clear documentation,
 
 ---
 
-# Research Question
+## Research Question
 
 > **Which demographic and clinical variables are independently associated with Type 2 Diabetes?**
 
 ---
 
-# Study Objectives
+## Study Objectives
 
 - Assess dataset quality before statistical analysis
 - Identify physiologically implausible values
@@ -45,7 +45,7 @@ Beyond the statistical analyses, this repository emphasizes clear documentation,
 
 ---
 
-# Dataset
+## Dataset
 
 **Dataset:** Pima Indians Diabetes Dataset
 
@@ -67,7 +67,7 @@ Beyond the statistical analyses, this repository emphasizes clear documentation,
 
 ---
 
-# Analytical Workflow
+## Analytical Workflow
 
 ```text
 Dataset
@@ -96,7 +96,7 @@ Clinical Interpretation
 
 ---
 
-# Key Results
+## Key Results
 
 The multivariable logistic regression model identified several statistically significant predictors of Type 2 Diabetes.
 
@@ -112,16 +112,16 @@ Overall, the model demonstrated **good discriminatory performance**, indicating 
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
-## Clinical Research
+### Clinical Research
 
 - Clinical data quality assessment
 - Data interpretation
 - Scientific documentation
 - Research reporting
 
-## Statistical Analysis
+### Statistical Analysis
 
 - Exploratory Data Analysis (EDA)
 - Descriptive Statistics
@@ -130,7 +130,7 @@ Overall, the model demonstrated **good discriminatory performance**, indicating 
 - ROC Curve Analysis
 - Model Performance Evaluation
 
-## Technical
+### Technical
 
 - Jamovi
 - GitHub
@@ -138,13 +138,13 @@ Overall, the model demonstrated **good discriminatory performance**, indicating 
 
 ---
 
-# Statistical Software
+## Statistical Software
 
 This project was completed using **Jamovi**. The statistical methods demonstrated—including descriptive statistics, Pearson correlation, binary logistic regression, ROC analysis, and model evaluation—are standard analytical techniques commonly performed using **IBM SPSS Statistics**, **SAS**, **R**, and other statistical software used in clinical research.
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```text
 clinical-diabetes-risk-analysis/
@@ -168,7 +168,7 @@ clinical-diabetes-risk-analysis/
 
 ---
 
-# About This Project
+## About This Project
 
 This independent portfolio project was completed to strengthen practical skills in clinical research methodology, healthcare data analytics, statistical modelling, and scientific reporting using a publicly available healthcare dataset.
 
@@ -176,9 +176,9 @@ The statistical workflow presented in this repository reflects methods commonly 
 
 ---
 
-# Author
+## Author
 
-##Zeel Bhatt
+Zeel Bhatt
 
 Honours Bachelor of Science
 
