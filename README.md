@@ -101,6 +101,6 @@ clinical_diabetes_risk_analysis.omv
 
 **Zeel Bhatt**
 
-Bachelor of Science (Honours)
+Honours Bachelor of Science 
 
 Interested in Clinical Research, Clinical Data Management, Healthcare Analytics, and Biostatistics.
