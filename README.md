@@ -178,15 +178,7 @@ The statistical workflow presented in this repository reflects methods commonly 
 
 # Author
 
-## Zeel Bhatt
+##Zeel Bhatt
 
-**Honours Bachelor of Science**
-
-Interested in:
-
-- Clinical Research
-- Clinical Trials
-- Clinical Data Management
-- Healthcare Analytics
-- Biostatistics
+Honours Bachelor of Science
 
